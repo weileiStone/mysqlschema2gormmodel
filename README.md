@@ -1,0 +1,1 @@
+通过 mysql infomation_schema数据库 生成目标数据库的gorm model
