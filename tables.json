@@ -1,0 +1,6 @@
+{
+    "mysql_ip":"",
+    "mysql_pwd":"",
+    "mysql_user":"",
+    "target_database":""
+}
